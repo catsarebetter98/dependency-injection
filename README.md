@@ -10,3 +10,5 @@ Constructor, property, or method injection implies where in the class that a
 dependency (either a class instance, var, interface, etc.) is injected.
 
 Always use a guard clause!!
+
+Great resource https://betterprogramming.pub/the-3-types-of-dependency-injection-141b40d2cebc
